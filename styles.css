@@ -54,3 +54,10 @@ body.elektronika a:hover {
 h3 {
     padding: 20px 20px 0;
 }
+a.btn {
+    background: #ff4d00;
+    color: white;
+    padding: 14px 28px;
+    text-decoration: none;
+    border-radius: 4px;
+}
